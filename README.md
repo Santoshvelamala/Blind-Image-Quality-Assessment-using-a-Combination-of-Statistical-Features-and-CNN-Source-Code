@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1Ytw0pqASrSlvvrbEJggivmtAJwMl2qUO?usp=sha
 
 After downloading the models run the 'Image_Quality_Predictor.py' after updating the following variables with the trained model links:
 
-image_Path='img1.bmp'
-cnn_Model_Path='./TrainedModels/Live_Challenge/3SCNN_Live_Chl.json'
-cnn_Model_Weights_Path='./TrainedModels/Live_Challenge/3SCNN_Weights_Live_Chl.h5'
+image_Path='img1.bmp'\\
+cnn_Model_Path='./TrainedModels/Live_Challenge/3SCNN_Live_Chl.json'\\
+cnn_Model_Weights_Path='./TrainedModels/Live_Challenge/3SCNN_Weights_Live_Chl.h5'\\
 svr_Model_Path ='./TrainedModels/Live_Challenge/SVR_70features.joblib'
